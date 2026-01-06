@@ -1,16 +1,19 @@
-## Hi there 👋
+Senior Cloud Engineer/Architect | Cloud Modernization | AI/ML | Data Engineering
 
-<!--
-**raghuporumamila/raghuporumamila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about helping organizations modernize applications, data platforms, and AI/ML workloads using cloud technologies. Experienced in designing scalable, secure, and efficient cloud solutions.
 
-Here are some ideas to get you started:
+Certifications
+✅ 3x Google Cloud ML Engineer
+✅ 3x Google Cloud Data Engineer
+✅ 4x Google Cloud Architect
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technical Skills
+🔹 Programming: Java, Python, Scala
+🔹 AI & ML: Generative AI ( Lang Chain, RAG, Pinecone,  MCP, Hugging Face, Gemini, ChatGPT), Vertex AI, TFX, Kubeflow, BigQueryML, TensorFlow (Keras), AutoML
+🔹 Data Engineering: Data Mesh, Spark, Beam, Kafka, Google Pub/Sub, BigQuery, Dataflow, Dataproc, Airflow
+🔹 Storage & Databases: Bigtable, Firestore, Cloud SQL, Alloy DB, Parquet, AVRO
+🔹 Application Services: Micro Services(Spring Boot, gRPC, Fast API, GraphQL), Anthos, Apigee, Docker, Kubernetes, Cloud Functions, App Engine, 
+🔹 Visualization & Reporting: Looker, Matplotlib, Seaborn, Grafana
+
+Industry Experience
+📌 Banking | Mining | Food | Recycling | Education | Telecommunications
