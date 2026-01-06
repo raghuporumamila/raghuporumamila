@@ -7,7 +7,7 @@ Certifications
 ✅ 3x Google Cloud Data Engineer
 ✅ 4x Google Cloud Architect
 
-Technical Skills
+Technical Skills  
 🔹 Programming: Java, Python, Scala  
 🔹 AI & ML: Generative AI ( Lang Chain, RAG, Pinecone,  MCP, Hugging Face, Gemini, ChatGPT), Vertex AI, TFX, Kubeflow, BigQueryML, TensorFlow (Keras), AutoML  
 🔹 Data Engineering: Data Mesh, Spark, Beam, Kafka, Google Pub/Sub, BigQuery, Dataflow, Dataproc, Airflow  
