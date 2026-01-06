@@ -22,4 +22,3 @@ Industry Experience
 📌 Banking | Mining | Food | Recycling | Education | Telecommunications
 
 
-[![Raghu Porumamilla's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghuporumamilla)](https://github.com/raghuporumamilla/github-readme-stats)
