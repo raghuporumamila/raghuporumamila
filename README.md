@@ -1,4 +1,4 @@
-Cloud Architect | Data Engineering | AI/ML
+Data | AI | Google Cloud | LD Runner
 
 Passionate about helping organizations modernize applications, data platforms, and AI/ML workloads using cloud technologies. Experienced in designing scalable, secure, and efficient cloud solutions.
 
