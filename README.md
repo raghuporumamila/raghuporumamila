@@ -7,7 +7,7 @@ Outside of work, I’m passionate about fitness, running, yoga, and mindfulness 
 Always open to learning, collaboration, and meaningful conversations around technology and growth.
 
 Certifications  
-✅ 3x Google Cloud ML Engineer
+[✅ 3x Google Cloud ML Engineer] (https://www.credly.com/badges/0f95ecc9-2271-47e6-afef-4ead3460425f/public_url)
 ✅ 3x Google Cloud Data Engineer
 ✅ 4x Google Cloud Architect
 
