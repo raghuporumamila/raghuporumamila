@@ -17,6 +17,3 @@ Technical Skills
 🔹 MicroServices - Spring Boot, gRPC, Fast API, GraphQL  
 🔹 Application Services: Anthos, Apigee, Docker, Kubernetes, Cloud Functions, App Engine  
 🔹 Visualization & Reporting: Looker, Matplotlib, Seaborn, Grafana  
-
-Industry Experience  
-📌 Banking | Mining | Food | Recycling | Education | Telecommunications
