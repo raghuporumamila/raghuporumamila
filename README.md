@@ -7,9 +7,9 @@ Outside of work, I’m passionate about fitness, running, yoga, and mindfulness 
 Always open to learning, collaboration, and meaningful conversations around technology and growth.
 
 Certifications  
-[✅ 3x Google Cloud ML Engineer](https://www.credly.com/badges/0f95ecc9-2271-47e6-afef-4ead3460425f/public_url)
-✅ 3x Google Cloud Data Engineer
-✅ 4x Google Cloud Architect
+[✅ 3x Google Cloud ML Engineer](https://www.credly.com/badges/0f95ecc9-2271-47e6-afef-4ead3460425f/public_url)  
+[✅ 3x Google Cloud Data Engineer](https://www.credly.com/badges/3f8f720d-a8ec-4123-baf6-99a9c78db2df/public_url)  
+[✅ 4x Google Cloud Architect](https://www.credly.com/badges/0c108b63-fc7a-407f-8e0b-a50374237cb0/public_url)  
 
 Technical Skills  
 🔹 Programming Languages: Java, Python, Scala  
